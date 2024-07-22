@@ -1,4 +1,4 @@
-# CrowdStrike WinPE BSOD resolution iso.
+# CrowdStrike BSOD resolution WinPE iso.
 
 WinPE image to resolve crowdstrike driver issue.
 
